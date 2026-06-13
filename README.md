@@ -1,10 +1,13 @@
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Pichayapa Thaisedhawatkul (PEACH)
+### Hi, I'm Pichayapa Thaisedhawatkul (PEACH) 🍑 
 
-### Developer | Designer | Architect
+I'm a **Full-Stack Developer** and **UX/UI Designer** transition from an architecture field. 
 
 * 🌍  I'm based in Bangkok, Thailand
-* 🖥️  See my portfolio at [piecahcih-portfolio](http://piecahcih-portfolio.vercel.app/)
-* ✉️  You can contact me at [pichayapa.thai@gmail.com](mailto:pichayapa.thai@gmail.com) 
+* 🖥️  See my [portfolio](http://piecahcih-portfolio.vercel.app/)
+* connect with me on [LinkedIn](https://www.linkedin.com/in/pichayapa-thaisedhawatkul-414217328/)
+* ✉️  Directly contact me at [pichayapa.thai@gmail.com](mailto:pichayapa.thai@gmail.com) 
+
+⚡ **Keep building, Keep learning.** I'm currently expanding my tech skills and am actively looking for new opportunities!!!
 
 ### Skills
 
@@ -39,6 +42,5 @@
 ### Socials
 
 <p align="left"> 
-  <a href="https://www.github.com/piecahcih" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> &nbsp;&nbsp; 
   <a href="https://www.linkedin.com/in/pichayapa-thaisedhawatkul-414217328/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a> &nbsp;&nbsp;
 </p>
